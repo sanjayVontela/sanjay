@@ -32,6 +32,9 @@ hr{
     width: 5%;
     margin:100px auto;
 }
+a{
+  text-decoration: none;
+}
 .top{
   background-color: #E4F9F5;
   padding-top:100px;
